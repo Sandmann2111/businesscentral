@@ -9,5 +9,7 @@
     "uidOffset":  "50100",
     "objectProperties":  "true",
     "datetimeCulture":  "en-US",
-    "targetPlatform":  "Dynamics365"
+    "targetPlatform":  "Dynamics365",
+    "VSCodePath": "MainApp",
+    "VSCodeTestPath": "TestApp"
 }
