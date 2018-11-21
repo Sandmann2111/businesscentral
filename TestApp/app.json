@@ -27,6 +27,7 @@
   "screenshots": [],
   "platform": "13.0.0.0",
   "application": "13.0.0.0",
+  "test": "13.0.0.0",
   "idRange": {
     "from": 50100,
     "to": 50149
