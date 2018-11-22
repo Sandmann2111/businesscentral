@@ -1,7 +1,7 @@
 {
   "id": "fc4df91e-dfa4-4dc6-84d4-3aea630da8dd",
-  "name": "HelloWorld Unit Test",
-  "publisher": "Navision.guru",
+  "name": "HelloWorld.Test",
+  "publisher": "Business Central MVPs",
   "brief": "",
   "description": "",
   "version": "1.0.0.0",
@@ -20,7 +20,7 @@
     {
       "appId": "ea2c2ec3-4d1b-4063-82ce-b32ec1d25dfb",
       "name": "HelloWorld",
-      "publisher": "Navision.guru",
+      "publisher": "Business Central MVPs",
       "version": "1.0.0.0"
     }
   ],
