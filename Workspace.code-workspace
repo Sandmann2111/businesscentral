@@ -5,16 +5,6 @@
 		}
 	],
 	"settings": {
-		"al.packageCachePath": "../.alpackages",
-		"al.enableCodeAnalysis": true,
-		"al.codeAnalyzers": [
-			"${CodeCop}",
-			"${PerTenantExtensionCop}",
-			"${UICop}"
-		],
-		"CRS.AlSubFolderName": "Source",		
-		"CRS.ObjectNamePrefix": "ADV ",		
-		"CRS.RemovePrefixFromFilename": true,
 		"al.assemblyProbingPaths": [
 			"./.netpackages",
 			"C:\\Windows\\assembly"
