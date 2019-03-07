@@ -1,12 +1,11 @@
 ﻿{
-    "branchId":  "ea905966-b3cd-4b0f-b58c-451f7f4b612e",
-    "navSolution":  "IS",
-    "projectName":  "Iceland",
-    "licenseFile":  "Advania BC.flf",
+    "branchId":  "6f4189cf-7401-46f1-b84c-2c4c156923fd",
+    "navSolution":  "W1",
+    "projectName":  "Workshop",
     "storeAllObjects":  "true",
     "objectProperties":  "true",
-    "datetimeCulture":  "is-IS",    
+    "datetimeCulture":  "en-US",
     "navVersion":  "13.0.0.0",
-    "dockerImage":  "mcr.microsoft.com/businesscentral/onprem:is",
-    "dockerShared": true
+    "dockerImage":  "mcr.microsoft.com/businesscentral/onprem",
+    "dockerShared":  ""
 }
