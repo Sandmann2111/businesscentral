@@ -5,7 +5,7 @@
     "storeAllObjects":  "true",
     "objectProperties":  "true",
     "datetimeCulture":  "en-US",
-    "navVersion":  "13.0.0.0",
+    "navVersion":  "14.0.0.0",
     "dockerImage":  "mcr.microsoft.com/businesscentral/onprem",
     "dockerShared":  ""
 }
