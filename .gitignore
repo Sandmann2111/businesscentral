@@ -1,1 +1,4 @@
-*.app
+*.app 
+**/*.g.xlf 
+**/rad.json 
+permissionsAnalyzer.json

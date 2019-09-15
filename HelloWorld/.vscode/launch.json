@@ -5,7 +5,7 @@
                                "type":  "al",
                                "request":  "launch",
                                "name":  "Publish to local server",
-                               "server":  "http://Iceland",
+                               "server":  "http://workshop",
                                "port":  7049,
                                "tenant":  "Default",
                                "serverInstance":  "NAV",

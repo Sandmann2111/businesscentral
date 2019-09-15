@@ -1,0 +1,12 @@
+{
+    "name": "Workshop",
+    "description": "Workshop Rules",
+    "generalAction": "Hidden",
+    "rules": [
+        {
+            "id": "AL0247",
+            "action": "Hidden",
+            "justification": "Not possible to solve"
+        }
+    ]
+}

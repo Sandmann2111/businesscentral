@@ -8,6 +8,9 @@
 		"al.assemblyProbingPaths": [
 			"./.netpackages",
 			"C:\\Windows\\assembly"
-		]
+		],
+		"al.codeAnalyzers": ["${CodeCop}","${UICop}","${PerTenantExtensionCop}"],
+		"al.enableCodeAnalysis": true,
+		"al.ruleSetPath": "./.codeAnalysis/ALRuleSets.json"
 	}
 }
